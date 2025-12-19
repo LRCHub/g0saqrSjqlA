@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "フラワー",
+  "base_artist": "Lucky Kilimanjaro",
+  "createdAt": "2025-12-19T15:15:17.652447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フラワー",
+      "artist": "Ohashi Trio",
+      "has_synced": true,
+      "path": "select/01_フラワー_Ohashi_Trio.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フラワー.",
+      "artist": "大橋トリオ",
+      "has_synced": true,
+      "path": "select/02_フラワー._大橋トリオ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ベルベット・フラワー",
+      "artist": "Seiko Matsuda",
+      "has_synced": false,
+      "path": "select/03_ベルベット・フラワー_Seiko_Matsuda.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ファブリック・フラワー",
+      "artist": "柊マグネタイト",
+      "has_synced": true,
+      "path": "select/04_ファブリック・フラワー_柊マグネタイト.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フラワー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/05_フラワー_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フラワー",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/06_フラワー_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フラワー",
+      "artist": "KinKi Kids",
+      "has_synced": true,
+      "path": "select/07_フラワー_KinKi_Kids.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flower (フラワー)",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/08_Flower_(フラワー)_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フラワー",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": false,
+      "path": "select/pl_01_フラワー_Lucky_Kilimanjaro.txt"
+    }
+  ]
+}
